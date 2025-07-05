@@ -1,0 +1,12 @@
+pinecone
+langchain
+google.generativeai
+python-dotenv
+langchain_google_genai
+google-genai>=1.0.0
+beautifulsoup4
+nest_asyncio
+playwright
+huggingface_hub==0.32.3
+playwright-stealth
+streamlit

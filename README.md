@@ -45,7 +45,7 @@ A smart, AI-powered web query agent, this tool validates user queries, checks fo
 ## 🚀 Setup Instructions
 
 1. Clone the Repository
-git clone https://github.com/your-username/web-query-agent.git
+git clone https://github.com/Shashank2104125/Web-Browser-Query-Agent
 cd web-query-agent
 
 2. Create a .env File
